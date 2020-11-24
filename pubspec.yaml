@@ -3,6 +3,7 @@ description: A Flutter plugin for allowing users to authenticate with native And
 version: 3.0.0
 author: Iiro Krankka <iiro.krankka@gmail.com>
 homepage: https://github.com/roughike/flutter_facebook_login
+publish_to: none
 
 dependencies:
   flutter:
